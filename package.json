@@ -1,0 +1,12 @@
+{
+  "name": "fleetpulse-proxy",
+  "version": "1.0.0",
+  "description": "FleetPulse CORS Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
