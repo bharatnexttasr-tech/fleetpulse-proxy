@@ -13,8 +13,8 @@ const ALERT_COOLDOWN = 30 * 60 * 1000;
  
 const TG_TOKEN   = process.env.TG_TOKEN;
 const TG_CHAT_ID = process.env.TG_CHAT_ID;
-const USERNAME   = process.env.USERNAME;
-const PASSWORD   = process.env.PASSWORD;
+const USERNAME   = process.env.API_USER;
+const PASSWORD   = process.env.API_PASS;
  
 const OVERSPEED_KMH = 80;
 const STOPPED_HOURS = 2;
